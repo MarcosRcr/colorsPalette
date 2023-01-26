@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run clean && tsc",
     "publish": "./public",
-    "clean": "rimraf dist",
+    "clean": "rimraf dist"
   },
   "author": "Marcos Cuellar",
   "license": "ISC",
